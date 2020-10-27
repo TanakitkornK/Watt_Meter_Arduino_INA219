@@ -5,7 +5,7 @@ Watt meter based on an arduino and a INA219 module. The capability of the INA219
 * Supports up to ±3.2A current measurement, with ±0.8mA resolution
 
 **Working Principle**
-* Connect th module to the power source and the load.
+* Connect the module to the power source and the load.
 * Power the arduino via the usb port.
 * Read the output on the OLED screen.
 

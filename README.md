@@ -5,15 +5,15 @@ Watt meter based on an arduino and a INA219 module. The capability of the INA219
 * Supports up to ±3.2A current measurement, with ±0.8mA resolution
 
 **Working Principle**
-* 1) Connect th module to the power source and the load.
-* 2) Power the arduino via the usb port.
-* 3) Read the output on the OLED screen.
+* Connect th module to the power source and the load.
+* Power the arduino via the usb port.
+* Read the output on the OLED screen.
 
 [//]: # ![](img.jpg)
 
 **Components:**
 * Arduino Nano
 * INA219
-* OLED 128x64 I2C
+* OLED 128x64 I2C (The pingout of the module I used has the pinout labels difference than what is shown on the schematic diagram. Strict to the wiring on the schematic.)
 
-[//]: # ![](RPM_sensor_schematic_bb.jpg)
+[//]: # ![](Arduino_INA219_bb.jpg)

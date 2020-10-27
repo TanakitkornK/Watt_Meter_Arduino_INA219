@@ -1,4 +1,4 @@
-# Tachometer_Arduino
+# Watt_Meter_Arduino_INA219
 
 Watt meter based on an arduino and a INA219 module. The capability of the INA219 is as follows:
 * Senses Bus Voltages from 0 to 26 V
